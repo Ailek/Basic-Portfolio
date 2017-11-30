@@ -1,0 +1,90 @@
+element.style {
+}
+torrent.css?v=1:1
+.Banner {
+    padding: 2rem 0;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -moz-background-size: contain;
+    background-size: contain;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 30vw;
+    color: lightblue;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+torrent.css?v=1:1
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from header
+torrent.css?v=1:1
+header {
+    margin: 0;
+    color: #c18178;
+    border-style: solid;
+}
+Inherited from body
+torrent.css?v=1:1
+body {
+    overflow-wrap: break-word;
+}
+torrent.css?v=1:1
+body {
+    font-family: Karla,sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #lightblue;
+    background-color: #lightblue;
+}
+Inherited from html
+torrent.css?v=1:1
+html {
+    font-size: 14px;
+    -webkit-tap-highlight-color: lightblue;
+}
+torrent.css?v=1:1
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+torrent.css?v=1:1
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+Pseudo ::after element
+torrent.css?v=1:1
+*, *::before, *::after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+Pseudo ::selection element
+torrent.css?v=1:1
+::selection {
+    color: #lightblue;
+    background: #lightblue;
+}
