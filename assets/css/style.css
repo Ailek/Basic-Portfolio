@@ -30,6 +30,19 @@ header	{
 	padding-top: 15px;
 }
 
+p {
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+}
+
+div:hover {
+    display: block;
+}
+div:hover {
+    background-color: blue;
+}
+
 h2,
 h3	{
 	color: #4aaaa5;
